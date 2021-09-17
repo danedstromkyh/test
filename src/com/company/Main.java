@@ -10,5 +10,10 @@ public class Main {
                 int update = 0;
         System.out.println(update);
         System.out.println("update2");
+
+        int update2 = 0;
+        System.out.println(update);
+        System.out.println(update2);
+        System.out.println("update3");
     }
 }
