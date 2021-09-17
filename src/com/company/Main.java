@@ -9,6 +9,6 @@ public class Main {
 
                 int update = 0;
         System.out.println(update);
-
+        System.out.println("update2");
     }
 }
